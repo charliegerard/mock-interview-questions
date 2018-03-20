@@ -23,6 +23,7 @@ I'll keep updating this list as I learn more myself and feel free to contribute 
 * Can you explain what it means when a framework uses a `convention over configuration` approach?
 * What is functional programming?
 * What is object-oriented programming?
+* What are two programming languages you know well? How are they similar? How are they different? What are some examples of times you would use each of them over the other? (Interviewer wants to know if you understand programming languages at a deep level, and if you are thoughtful about your choice of tools)
 * (Roleplay) You've come across an error that doesn't have an obvious solution while writing a program, explain what steps you would take in trying to resolve it. (Interviewer wants to get an understanding of your problem solving approach, try to give more details than "google it" or "ask for help")
 * Describe the agile approach to software development.
 
