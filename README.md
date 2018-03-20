@@ -17,7 +17,7 @@ I'll keep updating this list as I learn more myself and feel free to contribute 
 * Could you explain the concept of microservices?
 * How do you go about learning something new?
 * How do you stay up to date with technology and programming? (Interviewer wants to be comfortable that your skillset will continue to stay current in regards to the role. Do answer honestly including sources like blogs, forums, books or courses.)
-* Can you site different types of testing.
+* Can you cite different types of testing.
 * What is the next thing you'd like to learn?
 * What have you built that you are most proud of? (Interviewer is looking to hear about your passion for programming and give you a chance to talk about specific technologies or methodologies you've used recently)
 * Can you explain what it means when a framework uses a `convention over configuration` approach?
@@ -38,7 +38,7 @@ I'll keep updating this list as I learn more myself and feel free to contribute 
 * Can you explain how you organise your CSS for responsiveness?
 * [What is tree shaking?](treeShaking.md)
 * What is hoisting?
-* Can you site at least one way to improve a website for accessibility?
+* Can you cite at least one way to improve a website for accessibility?
 * Can you explain event delegation in JavaScript?
 * Can you explain how the event loop works?
 * What is the difference between == and === in JavaScript?
