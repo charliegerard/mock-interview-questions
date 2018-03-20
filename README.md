@@ -5,8 +5,8 @@ Some of these questions are more advanced than a junior level but I think it's a
 
 They may not be asked in a real interview and may not be expected of you as a junior/grad but:
 
-1) We never know.
-2) The more you know, the better! :)
+1.  We never know.
+2.  The more you know, the better! :)
 
 Some of these questions link to a README with an explanation.
 
@@ -65,12 +65,53 @@ I'll keep updating this list as I learn more myself and feel free to contribute 
 * Is there a formal performance review process and how often does it happen?
 * Do we have monthly / weekly catchups? (If no catchups, suggest if you could have regular catch ups)
 
+See more [here](https://github.com/twipped/interviewthis)!
+
 # :gear: General Techniques
 
 * If you find yourself getting lost during coding exercises, try splitting your solution into two parts: Sketch out the solution in any way that makes sense to you (e.g. pseudo-code or natural language), then code that solution. This technique can let you focus on solving separately from coding and spread out the cognitive load.
 
-# Additional resources
+# :clipboard: Practice
+
+* [Exercism](http://www.exercism.io/)
+* [CodeWars](https://www.codewars.com/)
+* [Project Euler](https://projecteuler.net/)
+* [CodeKata](http://codekata.com/)
+* [HackerRank](https://www.hackerrank.com/dashboard)
+* [CoderByte: Challenges](https://coderbyte.com/challenges)
+* [RosettaCode](http://rosettacode.org/wiki/Rosetta_Code)
+* [FreeCodeCamp](https://www.freecodecamp.org/)
+* [HackerEarth](https://www.hackerearth.com/fr/practice/)
+* [TopCoder](https://www.topcoder.com/challenges/?pageIndex=1)
+* [LeetCode](https://leetcode.com/problemset/all/)
+* [CodeChef](https://www.codechef.com/)
+* [IDeserve](https://www.ideserve.co.in/)
+* [Google CodeJam](https://code.google.com/codejam/past-contests)
+* [CodeGolf](https://codegolf.stackexchange.com/)
+* [IDeserve](https://www.ideserve.co.in/)
+* [Rosalind](https://projecteuler.net/)
+* [Quizful](https://quizful.com/)
+
+# :notebook: Additional resources
 
 Some other repositories can be found with interview questions:
 
-* [Front-end job interview questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+* [HTML5 Boilerplate: Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+* [Maxim Abramchuck: Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
+* [VVSCode: JS Interview Questions](https://github.com/vvscode/js--interview-questions)
+* [Yangshun: Front-end Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
+* [Yangshun: Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
+* [Arialdo Martini: Back-end Developer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
+* [Khan4019: Front-end Interview Questions](https://github.com/khan4019/front-end-Interview-Questions)
+* [JavaScript Scene: 10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
+* [Wwwebman: Front-end Interview Questions](https://github.com/wwwebman/front-end-interview-questions)
+* [Kennymkchan: Interview Questions in JavaScript](https://github.com/kennymkchan/interview-questions-in-javascript)
+* [That JS Dude: Interview](http://thatjsdude.com/interview/index.html)
+* [Interview Cake: JavaScript Interview Questions](https://www.interviewcake.com/javascript-interview-questions)
+* [Perfection Kills: ES6 Quiz](http://perfectionkills.com/javascript-quiz-es6/)
+* [David Shariff: Quiz](http://davidshariff.com/quiz/)
+* [David Shariff: JS Quiz](http://davidshariff.com/js-quiz/)
+* [O2JS: JavaScript Interview Questions](https://o2js.com/assets/javascript-interview-questions.pdf)
+* [HackerRank: Cracking the Code Interview](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview)
+* [W3 Resource: JavaScript Exercises](https://www.w3resource.com/javascript-exercises/)
+* [Jwasham: Coding Interview University](https://github.com/jwasham/coding-interview-university)
