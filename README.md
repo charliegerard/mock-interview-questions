@@ -56,10 +56,14 @@ I'll keep updating this list as I learn more myself and feel free to contribute 
 
 * What does a typical work week look like? (Gives you a quick sense of what to expect in terms of pace and responsibility)
 * Will I have the opportunity for pair programming and working with seniors? If so, how often can I expect it?
+* How long / time frame do you see me getting up to speed with your current codebase & workflow ?
+* In your view, what would you consider as a successful new hire ?
+* What ways would I be expected to contribute after 3 months / 6 months / 12 months ?
 * (If not specified) What technology stack does this product use? (or at an agency, what tehcnology stacks are favoured)
 * How often are deployments made to production? (This will give you a sense of how fast-moving the team is)
 * Is there an allocated budget for learning materials or attending conferences? (Shows company priorities and employee value)
 * Is there a formal performance review process and how often does it happen?
+* Do we have monthly / weekly catchups? (If no catchups, suggest if you could have regular catch ups)
 
 # Additional resources
 
