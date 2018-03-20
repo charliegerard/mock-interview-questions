@@ -52,6 +52,7 @@ I'll keep updating this list as I learn more myself and feel free to contribute 
 * What is the MVC (Model-View-Controller) architectural pattern?
 * What is CORS (Cross-Origin Resource Sharing) and what is responsible for?
 * What is a 500 HTTP error and what does it mean?
+* What is the difference between `PUT` and `POST` on a REST interface?
 
 # :question: Good questions to ask
 
