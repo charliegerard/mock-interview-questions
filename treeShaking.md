@@ -58,3 +58,4 @@ This can be fixed by using tools like **UglifyJS** that will minify the code and
 
 **Webpack by itself does not perform tree shaking, it needs tools like UglifyJS to perform actual dead code elimination.**
 
+In "compiled" languages like C++, an optimizing linker can automatically remove code.
