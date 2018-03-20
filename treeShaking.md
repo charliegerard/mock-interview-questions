@@ -4,7 +4,7 @@
 
 It relies on **import** and **export** statements in ES6 to determine which modules are imported and exported between files.
 
-Tree shaking starts form entry points and only includes the code that can ever be executed.
+Tree shaking starts from entry points and only includes the code that can ever be executed.
 
 To remove dead code, we need to use tools such as **Webpack** and **UglifyJS**.
 
