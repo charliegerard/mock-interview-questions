@@ -60,3 +60,9 @@ I'll keep updating this list as I learn more myself and feel free to contribute 
 * How often are deployments made to production? (This will give you a sense of how fast-moving the team is)
 * Is there an allocated budget for learning materials or attending conferences? (Shows company priorities and employee value)
 * Is there a formal performance review process and how often does it happen?
+
+# Additional resources
+
+Some other repositories can be found with interview questions:
+
+* [Front-end job interview questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
