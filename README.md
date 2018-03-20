@@ -65,6 +65,10 @@ I'll keep updating this list as I learn more myself and feel free to contribute 
 * Is there a formal performance review process and how often does it happen?
 * Do we have monthly / weekly catchups? (If no catchups, suggest if you could have regular catch ups)
 
+# :gear: General Techniques
+
+* If you find yourself getting lost during coding exercises, try splitting your solution into two parts: Sketch out the solution in any way that makes sense to you (e.g. pseudo-code or natural language), then code that solution. This technique can let you focus on solving separately from coding and spread out the cognitive load.
+
 # Additional resources
 
 Some other repositories can be found with interview questions:
