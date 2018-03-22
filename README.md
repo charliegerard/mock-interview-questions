@@ -13,10 +13,11 @@ Some of these questions link to a README with an explanation.
 I'll keep updating this list as I learn more myself and feel free to contribute and add extra questions by submitting a pull request. See the [CONTRIBUTING](CONTRIBUTING.md) guide for more detailed information.
 
 # :information_desk_person: General
-
+* What do you like about programming? (Passion indicator)
 * Could you explain the concept of microservices?
 * How do you go about learning something new?
 * How do you stay up to date with technology and programming? (Interviewer wants to be comfortable that your skillset will continue to stay current in regards to the role. Do answer honestly including sources like blogs, forums, books or courses.)
+* How do you feel about testing?
 * Can you cite different types of testing.
 * What is the next thing you'd like to learn?
 * What have you built that you are most proud of? (Interviewer is looking to hear about your passion for programming and give you a chance to talk about specific technologies or methodologies you've used recently)
@@ -53,6 +54,9 @@ I'll keep updating this list as I learn more myself and feel free to contribute 
 * What is CORS (Cross-Origin Resource Sharing) and what is responsible for?
 * What is a 500 HTTP error and what does it mean?
 * What is the difference between `PUT` and `POST` on a REST interface?
+* What is the fastest way to iterate?
+* What is premature optimization?
+* How do you personally debug backend code?
 
 # :question: Good questions to ask
 
@@ -66,6 +70,7 @@ I'll keep updating this list as I learn more myself and feel free to contribute 
 * Is there an allocated budget for learning materials or attending conferences? (Shows company priorities and employee value)
 * Is there a formal performance review process and how often does it happen?
 * Do we have monthly / weekly catchups? (If no catchups, suggest if you could have regular catch ups)
+* How do you deal with "that person", the one you don't get along with?
 
 See more [here](https://github.com/twipped/interviewthis)!
 
