@@ -64,6 +64,9 @@ I'll keep updating this list as I learn more myself and feel free to contribute 
 * Is there an allocated budget for learning materials or attending conferences? (Shows company priorities and employee value)
 * Is there a formal performance review process and how often does it happen?
 * Do we have monthly / weekly catchups? (If no catchups, suggest if you could have regular catch ups)
+* what is closure in JavaScript and what is its use ?
+* what is difference between function declaration and function definition ?
+
 
 # :gear: General Techniques
 
