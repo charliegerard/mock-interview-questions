@@ -27,6 +27,7 @@ I'll keep updating this list as I learn more myself and feel free to contribute 
 * What are two programming languages you know well? How are they similar? How are they different? What are some examples of times you would use each of them over the other? (Interviewer wants to know if you understand programming languages at a deep level, and if you are thoughtful about your choice of tools)
 * (Roleplay) You've come across an error that doesn't have an obvious solution while writing a program, explain what steps you would take in trying to resolve it. (Interviewer wants to get an understanding of your problem solving approach, try to give more details than "google it" or "ask for help")
 * Describe the agile approach to software development.
+* What is the difference between function declaration and function definition ?
 
 # :art: Front-end
 
@@ -46,6 +47,7 @@ I'll keep updating this list as I learn more myself and feel free to contribute 
 * What is the difference between == and === in JavaScript?
 * What do people mean when they talk about Single Page Applications (SPAs)? And what are the benefits/downsides of this approach?
 * What is the purpose of using a templating language like HAML?
+* What is closure in JavaScript and what is its use ?
 
 # :nut_and_bolt: Back-end
 
@@ -73,6 +75,7 @@ I'll keep updating this list as I learn more myself and feel free to contribute 
 * How do you deal with "that person", the one you don't get along with?
 
 See more [here](https://github.com/twipped/interviewthis)!
+
 
 # :gear: General Techniques
 
