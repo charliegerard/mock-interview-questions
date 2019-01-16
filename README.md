@@ -34,7 +34,7 @@ I'll keep updating this list as I learn more myself and feel free to contribute 
 * [What is CSS specificity?](cssSpecificity.md)
 * Are you familiar with CSS modules?
 * What is your favorite React.js feature and why?
-* [What is graceful degradation and prograssive enhancement?](gracefulDegradation.md)
+* [What is graceful degradation and progressive enhancement?](gracefulDegradation.md)
 * What is your favorite front-end framework and why?
 * Can you explain one new feature in ES6?
 * Give me 3 ways to optimise the loading performance of a website.
@@ -48,6 +48,11 @@ I'll keep updating this list as I learn more myself and feel free to contribute 
 * What do people mean when they talk about Single Page Applications (SPAs)? And what are the benefits/downsides of this approach?
 * What is the purpose of using a templating language like HAML?
 * What is closure in JavaScript and what is its use ?
+* What is the difference between `.map` and `.forEach`?
+* Does JS pass by value or by reference?
+* How do you create a DOM element in vanilla JS?
+* Difference between GET and POST?
+* Difference between inline, inline-block, block elements?
 
 # :nut_and_bolt: Back-end
 
