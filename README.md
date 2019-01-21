@@ -53,6 +53,7 @@ I'll keep updating this list as I learn more myself and feel free to contribute 
 * How do you create a DOM element in vanilla JS?
 * Difference between GET and POST?
 * Difference between inline, inline-block, block elements?
+* What is the data structure of the DOM?
 
 # :nut_and_bolt: Back-end
 
