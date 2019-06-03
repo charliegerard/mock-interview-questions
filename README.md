@@ -44,7 +44,7 @@ I'll keep updating this list as I learn more myself and feel free to contribute 
 * Can you cite at least one way to improve a website for accessibility?
 * Can you explain event delegation in JavaScript?
 * Can you explain how the event loop works?
-* What is the difference between == and === in JavaScript?
+* [What is the difference between == and === in JavaScript?](==Vs===.md)
 * What do people mean when they talk about Single Page Applications (SPAs)? And what are the benefits/downsides of this approach?
 * What is the purpose of using a templating language like HAML?
 * What is closure in JavaScript and what is its use ?
