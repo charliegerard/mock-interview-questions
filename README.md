@@ -131,3 +131,4 @@ Some other repositories can be found with interview questions:
 * [HackerRank: Cracking the Code Interview](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview)
 * [W3 Resource: JavaScript Exercises](https://www.w3resource.com/javascript-exercises/)
 * [Jwasham: Coding Interview University](https://github.com/jwasham/coding-interview-university)
+* [Awesome JavaScript code snippets](https://github.com/rao123dk/ouput.js)
