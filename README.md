@@ -28,6 +28,7 @@ I'll keep updating this list as I learn more myself and feel free to contribute 
 * (Roleplay) You've come across an error that doesn't have an obvious solution while writing a program, explain what steps you would take in trying to resolve it. (Interviewer wants to get an understanding of your problem solving approach, try to give more details than "google it" or "ask for help")
 * Describe the agile approach to software development.
 * What is the difference between function declaration and function definition ?
+* What is the difference between function declaration and function expression in Javascript ?
 
 # :art: Front-end
 
